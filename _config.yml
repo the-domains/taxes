@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7715530790271714
+  lightness: 0.2560576945092953
+  rhythmicContrast: 0.8845795202745763
+  saturation: 0.008589964084388835
+cta: {}
+layout_spectrum: 0.2143991755488961
+name: Taxes
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.7929422396872724
